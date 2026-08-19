@@ -20,7 +20,7 @@
 
 body {
     background: var(--dark);
-    background-image: url(image/fashion2.JPG.jpg);
+    background-image: url(main-image1.jpg);
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -83,11 +83,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 50px;
-    background-image: url(image/fashion.JPG.jpg);
-    backgroud-size:cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background: linear-gradient(120deg, #0B0E11, #181A1C);
+     background: linear-gradient(120deg, #0B0E11, #181A1C);
 }
 
 .hero-text {
@@ -141,7 +137,7 @@ button:hover {
     background: linear-gradient(145deg, #242424, #0A0C0E);
     border-radius: 20px;
     box-shadow: 0 20px 50px rgba(0,0,0,.5);
-    background-image: url(image/main-image.png);
+    background-image: url(main-image2.png);
     background-size:cover;
 }
 
@@ -236,7 +232,7 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image:url(image/shirt-image.png);
+    background-image:url(shirt-image.png);
     background-size:cover;
 }
 
@@ -246,7 +242,7 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(image/T-shirt.png);
+    background-image: url(premium-T-shirt.png);
     background-size:cover;
 }
 .category-img3 {
@@ -255,7 +251,7 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image:url(image/Jackets.jpg);
+    background-image:url(Jackets.png);
     background-size:cover;
 }
 .category-img4 {
@@ -264,7 +260,7 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image:url(image/jeans-image.jpg);
+    background-image:url(Jeans.jpg);
     background-size:cover;
 }
 .category h3 {
@@ -305,7 +301,7 @@ button:hover {
     justify-content: center;
 
     background: #0E1216;
-    background-image: url(image/Black-shirt.png);
+    background-image: url(Black-shirt.png);
     background-size: cover;
 
 }
@@ -317,7 +313,7 @@ button:hover {
     justify-content: center;
 
     background: #0E1216;
-    background-image:url(image/Brown-Jackets.jpg);
+    background-image:url(Brown-jacket.jpg);
     background-size: cover;
 }
 .product-image3 {
@@ -328,7 +324,7 @@ button:hover {
     justify-content: center;
 
     background: #0E1216;
-    background-image:url(image/Premium-T-shirt.jpg);
+    background-image:url(T-Shirts.jpg);
     background-size: cover;
 }
 .product-image4 {
@@ -339,7 +335,7 @@ button:hover {
     justify-content: center;
 
     background: #0E1216;
-    background-image:url(image/Blue-Jeans.jpg);
+    background-image:url(Blue-Jeans.jpg);
     background-size:cover;
 }
 
